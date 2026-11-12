@@ -24,4 +24,4 @@ Information Security student interested in systems programming, binary formats, 
 * **[writeups](https://github.com/clastd/writeups)** — just a bit of technical notes and CTF write-ups.
 
 #### Contact
-* Telegram: @clastd
+* Telegram: [@clastd](https://t.me/clastd)
