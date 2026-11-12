@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About
+
+Information Security student interested in systems programming, binary formats, and JVM internals.
+
+#### Projects
+* **rustretto** *(private)* — WIP JVM `.class` parser and bytecode manipulation library in Rust.
+* **[writeups](https://github.com/clastd/writeups)** — just a bit technical notes and CTF write-ups.
+
+#### Contact
+* Telegram: @clastd
