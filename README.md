@@ -21,7 +21,7 @@ Information Security student interested in systems programming, binary formats, 
 
 #### Projects
 * **rustretto** *(private)* — WIP JVM `.class` parser and bytecode manipulation library in Rust.
-* **[writeups](https://github.com/clastd/writeups)** — just a bit technical notes and CTF write-ups.
+* **[writeups](https://github.com/clastd/writeups)** — just a bit of technical notes and CTF write-ups.
 
 #### Contact
 * Telegram: @clastd
